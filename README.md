@@ -27,6 +27,15 @@ This project was developed for the Hack2Skill Hackathon to make scientific and e
 
 ---
 
+## 👨‍💻 Team Members / Contributors
+
+- **Nilesh K Jadhav** – Project Lead & Backend Developer  
+- **N Thrivedha** – Data Curation & Knowledge Base  
+- **Gorachand Senepati** – Streamlit UI & Testing Support
+- **Pranjal Jain** - Code Comment Review
+
+---
+
 ## 🚀 How to Run Locally
 
 1. **Install dependencies:**
