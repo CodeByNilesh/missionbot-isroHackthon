@@ -1,0 +1,7 @@
+[theme]
+base="light"  # or "dark"
+primaryColor="#047857"  # Teal-Green accent
+backgroundColor="#FFFFFF"
+secondaryBackgroundColor="#F3F4F6"
+textColor="#1F2937"  # Slightly dark gray
+font="sans serif"  # Options: serif, sans serif, monospace

@@ -1,18 +1,250 @@
 [
   {
+    "question": "What is Chandrayaan-1?",
+    "answer": "Chandrayaan-1 was India's first lunar mission launched in 2008 to study the Moon's surface and confirm the presence of water."
+  },
+  {
+    "question": "What is Chandrayaan-2?",
+    "answer": "Chandrayaan-2 was ISRO's second lunar mission that included an orbiter, lander, and rover; the orbiter is still operational around the Moon."
+  },
+  {
     "question": "What is Chandrayaan-3?",
-    "answer": "Chandrayaan-3 is India's third lunar mission focused on a soft landing on the Moon."
+    "answer": "Chandrayaan-3 is India's third lunar mission, successfully achieving a soft landing on the Moon in 2023 with a lander and rover."
   },
   {
     "question": "What is Gaganyaan?",
-    "answer": "Gaganyaan is India's first human spaceflight mission, aiming to send astronauts into low Earth orbit."
+    "answer": "Gaganyaan is India’s first crewed space mission aiming to send Indian astronauts into low Earth orbit."
   },
   {
-    "question": "What does an AQI of 120 mean?",
-    "answer": "An Air Quality Index (AQI) of 120 is considered 'Unhealthy for Sensitive Groups'."
+    "question": "What is Mangalyaan?",
+    "answer": "Mangalyaan, or Mars Orbiter Mission (MOM), was India’s first interplanetary mission that successfully entered Mars orbit in 2014."
   },
   {
-    "question": "How does air pollution affect health?",
-    "answer": "Air pollution can cause respiratory issues, cardiovascular problems, and worsen asthma symptoms."
+    "question": "What is Aditya-L1?",
+    "answer": "Aditya-L1 is India’s first solar mission designed to study the Sun from the Lagrange Point 1."
+  },
+  {
+    "question": "What is Shukrayaan?",
+    "answer": "Shukrayaan is ISRO’s proposed mission to explore Venus, focusing on atmospheric studies and surface mapping."
+  },
+  {
+    "question": "What is PSLV?",
+    "answer": "PSLV (Polar Satellite Launch Vehicle) is one of ISRO's most reliable rockets used for launching satellites into polar orbits."
+  },
+  {
+    "question": "What is SSLV?",
+    "answer": "SSLV (Small Satellite Launch Vehicle) is a compact, low-cost rocket developed by ISRO for launching small payloads into orbit."
+  },
+  {
+    "question": "What is the significance of Vikram lander?",
+    "answer": "The Vikram lander is a key component of Chandrayaan missions, designed to perform soft landings on the lunar surface."
+  },
+  {
+    "question": "What is the role of the rover Pragyan?",
+    "answer": "Pragyan is the rover deployed by Chandrayaan-3 to explore the lunar surface and conduct scientific experiments."
+  },
+  {
+    "question": "What is the purpose of the orbiter in Chandrayaan-2?",
+    "answer": "The orbiter in Chandrayaan-2 is tasked with mapping the Moon's surface and studying its atmosphere and mineral composition."
+  },
+  {
+    "question": "What are the objectives of Gaganyaan?",
+    "answer": "Gaganyaan aims to demonstrate human spaceflight capabilities, conduct scientific experiments, and enhance India's space technology."
+  },
+  {
+    "question": "What is the significance of the Mars Orbiter Mission?",
+    "answer": "The Mars Orbiter Mission marked India's first successful interplanetary mission, demonstrating advanced space technology and cost-effective engineering."
+  },
+  {
+    "question": "What are the key features of Aditya-L1?",
+    "answer": "Aditya-L1 will study solar activities, solar winds, and their impact on space weather, enhancing our understanding of the Sun."
+  },
+  {
+    "question": "What is the expected timeline for Shukrayaan?",
+    "answer": "Shukrayaan is expected to be launched in the coming years, with detailed planning and development currently underway."
+  },
+  {
+    "question": "How does PSLV differ from SSLV?",
+    "answer": "PSLV is designed for launching larger payloads into polar orbits, while SSLV is optimized for smaller payloads and quicker launches."
+  },
+  {
+    "question": "What are the scientific goals of the Vikram lander?",
+    "answer": "The Vikram lander aims to conduct experiments on the lunar surface, including soil analysis and seismic activity monitoring."
+  },
+  {
+    "question": "What instruments are carried by the Pragyan rover?",
+    "answer": "Pragyan carries instruments for analyzing soil composition, measuring temperature, and studying lunar geology."
+  },
+  {
+    "question": "What advancements does the Chandrayaan-3 mission represent?",
+    "answer": "Chandrayaan-3 represents advancements in soft landing technology and autonomous navigation on the lunar surface."
+  },
+  {
+    "question": "What is the significance of the Gaganyaan mission for India?",
+    "answer": "Gaganyaan is significant as it will establish India as a key player in human spaceflight and enhance its capabilities in space exploration."
+  },
+  {
+    "question": "What are the potential benefits of the Gaganyaan mission?",
+    "answer": "The Gaganyaan mission could lead to advancements in technology, inspire future generations, and contribute to international space research."
+  },
+  {
+    "question": "How does the Mars Orbiter Mission contribute to global space exploration?",
+    "answer": "The Mars Orbiter Mission contributes by providing valuable data on Mars' atmosphere, surface, and climate, enhancing our understanding of the planet."
+  },
+  {
+    "question": "What is the expected impact of Aditya-L1 on solar research?",
+    "answer": "Aditya-L1 is expected to significantly advance solar research by providing continuous observations of solar phenomena and their effects on Earth."
+  },
+  {
+    "question": "What challenges does Shukrayaan aim to address in Venus exploration?",
+    "answer": "Shukrayaan aims to address challenges such as Venus' harsh atmospheric conditions and surface mapping, contributing to our understanding of the planet."
+  },
+  {
+    "question": "How does PSLV support India's satellite launch capabilities?",
+    "answer": "PSLV supports India's satellite launch capabilities by providing a reliable and versatile platform for deploying various types of satellites into orbit."
+  },
+  {
+    "question": "What are the advantages of using SSLV for small satellite launches?",
+    "answer": "SSLV offers advantages such as lower costs, quicker turnaround times, and flexibility for launching small payloads into space."
+  },
+  {
+    "question": "What is the future potential of the Vikram lander in lunar exploration?",
+    "answer": "The Vikram lander has the potential to be used in future lunar missions for further exploration and scientific research on the Moon."
+  },
+  {
+    "question": "How does Pragyan contribute to lunar science?",
+    "answer": "Pragyan contributes by conducting in-situ analysis of lunar soil, providing insights into the Moon's geology and mineralogy."
+  },
+  {
+    "question": "What are the expected outcomes of the Chandrayaan-3 mission?",
+    "answer": "Expected outcomes include successful soft landing, data collection on lunar surface conditions, and advancements in autonomous navigation technology."
+  },
+  {
+    "question": "What is the long-term vision for Gaganyaan?",
+    "answer": "The long-term vision for Gaganyaan includes establishing a sustainable human presence in space and contributing to international space missions."
+  },
+  {
+    "question": "How does the Mars Orbiter Mission enhance India's position in global space exploration?",
+    "answer": "The Mars Orbiter Mission enhances India's position by showcasing its technological capabilities and contributing valuable data to the global scientific community."
+  },
+  {
+    "question": "What are the implications of Aditya-L1 for understanding space weather?",
+    "answer": "Aditya-L1's observations will help predict space weather events, which can impact satellite operations and communication systems on Earth."
+  },
+  {
+    "question": "What is the significance of Shukrayaan for future Venus missions?",
+    "answer": "Shukrayaan's findings will provide a foundation for future Venus missions, enhancing our understanding of the planet's atmosphere and geology."
+  },
+  {
+    "question": "How does PSLV contribute to international satellite launches?",
+    "answer": "PSLV has been used for launching satellites for various countries, establishing India as a reliable partner in global space endeavors."
+  },
+  {
+    "question": "What innovations are introduced with SSLV?",
+    "answer": "SSLV introduces innovations such as rapid deployment capabilities and cost-effective solutions for small satellite missions."
+  },
+  {
+    "question": "What future missions are planned following Chandrayaan-3?",
+    "answer": "Future missions may include further lunar exploration, Mars missions, and potential interplanetary missions to other celestial bodies."
+  },
+  {
+    "question": "How does Gaganyaan align with global space exploration goals?",
+    "answer": "Gaganyaan aligns with global goals by promoting international collaboration in space research and enhancing human spaceflight capabilities."
+  },
+  {
+    "question": "What are the expected technological advancements from the Gaganyaan mission?",
+    "answer": "Technological advancements from Gaganyaan include life support systems, crew safety measures, and advancements in space travel technology."
+  },
+  {
+    "question": "How does the Mars Orbiter Mission impact future interplanetary missions?",
+    "answer": "The Mars Orbiter Mission sets a precedent for future interplanetary missions by demonstrating India's capability to conduct complex space exploration."
+  },
+  {
+    "question": "What role will Aditya-L1 play in understanding solar-terrestrial interactions?",
+    "answer": "Aditya-L1 will play a crucial role in understanding how solar activities affect Earth's magnetosphere and atmosphere."
+  },
+  {
+    "question": "What are the expected scientific contributions of Shukrayaan?",
+    "answer": "Shukrayaan is expected to contribute to our understanding of Venus' atmosphere, surface conditions, and potential for past habitability."
+  },
+  {
+    "question": "How does PSLV enhance India's commercial space sector?",
+    "answer": "PSLV enhances India's commercial space sector by providing a reliable launch vehicle for domestic and international satellite operators."
+  },
+  {
+    "question": "What future developments are anticipated with SSLV technology?",
+    "answer": "Future developments with SSLV may include increased payload capacity and enhanced launch frequency for small satellite missions."
+  },
+  {
+    "question": "What are the long-term goals of the Vikram lander in lunar exploration?",
+    "answer": "The long-term goals include conducting extensive scientific research, supporting future lunar missions, and contributing to international lunar exploration efforts."
+  },
+  {
+    "question": "How does Pragyan's data contribute to lunar geology?",
+    "answer": "Pragyan's data will provide critical insights into the Moon's geological history, surface composition, and potential resources."
+  },
+  {
+    "question": "What are the anticipated impacts of the Chandrayaan-3 mission on future space exploration?",
+    "answer": "Chandrayaan-3 is expected to pave the way for more advanced lunar missions and enhance India's capabilities in planetary exploration."
+  },
+  {
+    "question": "What is the broader vision for Gaganyaan in the context of space exploration?",
+    "answer": "The broader vision for Gaganyaan includes fostering a sustainable human presence in space, contributing to scientific research, and inspiring future generations."
+  },
+  {
+    "question": "How does the Mars Orbiter Mission influence global perceptions of India's space capabilities?",
+    "answer": "The Mars Orbiter Mission has positively influenced global perceptions by showcasing India's cost-effective and innovative approach to space exploration."
+  },
+  {
+    "question": "What are the implications of Aditya-L1 for understanding solar impacts on Earth?",
+    "answer": "Aditya-L1's findings will help in understanding how solar activities influence Earth's climate and technological systems."
+  },
+  {
+    "question": "What future missions are envisioned following Shukrayaan's findings?",
+    "answer": "Future missions may include more detailed studies of Venus, potential landers, and collaborative international efforts in planetary science."
+  },
+  {
+    "question": "How does PSLV support India's role in global space initiatives?",
+    "answer": "PSLV supports India's role by providing a reliable launch platform for international satellites, enhancing collaboration in global space initiatives."
+  },
+  {
+    "question": "What advancements are expected with the continued development of SSLV?",
+    "answer": "Advancements with SSLV may include improved launch efficiency, increased payload capacity, and enhanced capabilities for small satellite missions."
+  },
+  {
+    "question": "What are the future prospects for the Vikram lander in lunar exploration?",
+    "answer": "The Vikram lander is expected to play a significant role in future lunar missions, contributing to ongoing research and exploration of the Moon."
+  },
+  {
+    "question": "How does Pragyan enhance our understanding of the Moon's surface?",
+    "answer": "Pragyan enhances our understanding by conducting detailed analyses of lunar soil, providing data on mineral composition and geological processes."
+  },
+  {
+    "question": "What are the long-term implications of the Chandrayaan-3 mission for space exploration?",
+    "answer": "Chandrayaan-3's success will have long-term implications by establishing India as a leader in lunar exploration and paving the way for future interplanetary missions."
+  },
+  {
+    "question": "What is the ultimate goal of the Gaganyaan mission?",
+    "answer": "The ultimate goal of Gaganyaan is to establish a sustainable human presence in space, conduct scientific research, and inspire future generations in space exploration."
+  },
+  {
+    "question": "How does the Mars Orbiter Mission contribute to our understanding of Mars?",
+    "answer": "The Mars Orbiter Mission contributes by providing critical data on Mars' atmosphere, surface conditions, and potential for past life, enhancing our understanding of the planet."
+  },
+  {
+    "question": "What are the expected outcomes of Aditya-L1 for solar physics?",
+    "answer": "Aditya-L1 is expected to yield significant outcomes in solar physics by providing continuous observations of solar activities and their effects on space weather."
+  },
+  {
+    "question": "What future explorations are planned based on Shukrayaan's findings?",
+    "answer": "Future explorations may include detailed atmospheric studies, potential landers, and collaborative missions to further understand Venus."
+  },
+  {
+    "question": "How does PSLV enhance India's capabilities in commercial space launches?",
+    "answer": "PSLV enhances India's capabilities by providing a reliable and cost-effective platform for launching satellites for both domestic and international clients."
+  },
+  {
+    "question": "What innovations are expected with the evolution of SSLV technology?",
+    "answer": "Innovations with SSLV technology may include improved launch turnaround times, increased payload flexibility, and enhanced capabilities for small satellite constellations."
   }
 ]
